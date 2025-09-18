@@ -1,7 +1,5 @@
-streamlit==1.24.0
-requests==2.31.0
-pandas==2.2.2
-plotly==5.16.0
-python-dotenv==1.0.0
-matplotlib
-scikit-learn
+streamlit>=1.24
+requests>=2.31
+pandas>=2.2
+plotly>=5.16
+python-dotenv>=1.0
